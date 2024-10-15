@@ -5,7 +5,7 @@
 欢迎来到我的 GitHub 主页！我是一名 **数据分析师**，目前专注于 **数据分析**。
 
 - 🔭 目前正在学习数据分析工具。
-- 🌱 兴趣爱好：阅读、旅行️、talot。
+- 🌱 兴趣爱好：阅读、旅行️、tarot。
 - 💬 想和我讨论什么话题？欢迎给我发邮件！
 -  联系我: [is.jiaying.tan@gmail.com](mailto:example@example.com)
 
